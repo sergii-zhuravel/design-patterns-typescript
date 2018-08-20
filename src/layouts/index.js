@@ -3,9 +3,9 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/header'
-import './index.css'
 import 'hack/dist/hack.css'
 import 'highlight.js/styles/sunburst.css'
+import './index.css'
 
 const Layout = ({ children, data }) => (
   <div className='container'>
