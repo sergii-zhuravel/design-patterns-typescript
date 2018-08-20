@@ -1,0 +1,2 @@
+webpackJsonp([0xcb90e372e8ca],{207:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(2),a=u(n),c=l(20),o=u(c),d=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Твірні шаблони"),a.default.createElement("p",null,"Singleton"),a.default.createElement(o.default,{to:"/"},"Go back to the homepage"))};t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-4-js-03cd814896b7d5fb1b26.js.map
