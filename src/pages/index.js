@@ -12,10 +12,10 @@ const IndexPage = (data) => {
 
  <ul>
     <li><Link to="/page-1/">Одинак (Singleton)</Link></li>
-    <li><Link to="/page-2/">Фабричний метод (Factory Method) - To ba addedd..</Link></li>
-    <li><Link to="/page-3/">Абстрактна фабрика (Abstract Factory) - To ba addedd..</Link></li>
-    <li><Link to="/page-4/">Будівник (Builder) - To ba addedd..</Link></li>
-    <li><Link to="/page-5/">Прототип (Prototype) - To ba addedd..</Link></li>
+    <li><Link to="/page-2/">Фабричний метод (Factory Method) - To be addedd..</Link></li>
+    <li><Link to="/page-3/">Абстрактна фабрика (Abstract Factory) - To be addedd..</Link></li>
+    <li><Link to="/page-4/">Будівник (Builder) - To be addedd..</Link></li>
+    <li><Link to="/page-5/">Прототип (Prototype) - To be addedd..</Link></li>
 
  </ul>
   </div>
